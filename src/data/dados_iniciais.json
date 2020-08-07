@@ -1,53 +1,49 @@
 {
   "categorias": [
     {
-      "titulo": "Culinária",
+      "titulo": "Front End",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "",
+        "text": "Formação de Front End na Alura",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "Rocambole de Carne Moída 4 Queijos I Churrasqueadas",
-          "url": "https://www.youtube.com/watch?v=vmqeBX77e7M"
+          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
         },
         {
-          "titulo": "Costela no Forno! ESPECIAL DIA DOS PAIS | Netão! Bom Beef #98",
-          "url": "https://www.youtube.com/watch?v=KpU-cM-o7AE"
+          "titulo": "SEO com React",
+          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
         },
         {
-          "titulo": "Frango à caçadora com macarrão e uvas verdes | Claude Troisgros | Que marravilha!",
-          "url": "https://www.youtube.com/watch?v=T7nPD8GJFfw"
+          "titulo": "Componentização com VanillaJS #AluraMais",
+          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
         },
         {
-          "titulo": "CHOCOLATE QUENTE SUPER CREMOSO | Receitas Internéticas | Mohamad Hindi",
-          "url": "https://www.youtube.com/watch?v=oOuJBtCYezA"
+          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
         },
         {
-          "titulo": "É ASSIM QUE FAÇO MAIONESE! | ERICK JACQUIN",
-          "url": "https://www.youtube.com/watch?v=Ai2ANvomukY"
+          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
         },
         {
-          "titulo": "Picanha na Manteiga de Garrafa (Part. Matheus Ceará) I Churrasqueadas",
-          "url": "https://www.youtube.com/watch?v=zZaUr8GWjyU"
+          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
         },
         {
-          "titulo": "Chorizo com salsa Criolla! | Netão! Bom Beef #95",
-          "url": "https://www.youtube.com/watch?v=JIaBEYNufag"
-        },
-        {
-          "titulo": "Como fazer Picanha na Frigideira | Netão! Bom Beef #21",
-          "url": "https://www.youtube.com/watch?v=BJxNl6JUiOA"
-        }        
+          "titulo": "Novidades do Angular v9",
+          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+        }
       ]
     },
     {
-      "titulo": "Software",
+      "titulo": "Back End",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "",
+        "text": "Cursos de Back End na Alura",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
@@ -74,28 +70,28 @@
       ]
     },
     {
-      "titulo": "Hardware",
+      "titulo": "Data Science e Inteligência Artificial",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "",
-        "url": "https://www.youtube.com/watch?v=55r65Bdg4F0"
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/cursos-online-mobile"
       },
       "videos": [
         {
-          "titulo": "RYZEN XT PRA JOGAR COM OU SEM OVERCLOCK? ENTENDA !!!",
-          "url": "https://www.youtube.com/watch?v=2EFbFm756KE"
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
         },
         {
-          "titulo": "DESTRUIÇÃO LEVA CONSTRUÇÃO: DOUBLE CLICK MOUSE G903",
-          "url": "https://www.youtube.com/watch?v=vKIYuW8ixFo"
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
         },
         {
-          "titulo": "BLACKWIDOW DA RAZER - A DESTRUIÇÃO LEVA CONSTRUÇÃO",
-          "url": "https://www.youtube.com/watch?v=yMMJhuuB01Y"
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
         },
         {
-          "titulo": "TECLADO BOM E BARATO T-DAGGER BORA COM SWITCH OUTEMU BLUE",
-          "url": "https://www.youtube.com/watch?v=BO_ldFIyw8M"
+          "titulo": "Como ingressar no mercado de Data Science?",
+          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
         }
       ]
     },
@@ -125,59 +121,25 @@
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "",
-        "url": "https://www.youtube.com/watch?v=FGSu07zXmAc"
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "SÓ NO TALENTO | MIBR Stream Highlights",
-          "url": "https://www.youtube.com/watch?v=HOLCmroqeZg"
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
         },
         {
-          "titulo": "PODE ME CHAMAR DE REI DAS ESTRATEGIA PIKE POUPADINHO!!",
-          "url": "https://www.youtube.com/watch?v=wrvHCZN8VOg"
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
         },
         {
-          "titulo": "Quase fomos banidos!!! Entenda o caso... [GAMEPLAY VENENOSA]",
-          "url": "https://www.youtube.com/watch?v=S6FVS1eGOW4"
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
         },
         {
-          "titulo": "Loucademia dos 4k (27/07/2020) 7.27c",
-          "url": "https://www.youtube.com/watch?v=hvOfFP5nrBw"
-        },
-        {
-          "titulo": "SMOKEZINHA TRAVA MEIO TR NA TRAIN | Dica do Duken #11",
-          "url": "https://www.youtube.com/watch?v=OBrzQxUgtwQ"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
         }
       ]
     }
